@@ -1,0 +1,32 @@
+{
+  "guild_id": "3106755768",
+  "region": "BD",
+  "guild_name": "GOLRY",
+  "guild_region": "BD",
+  "max_members": 20,
+  "guild_level": 1,
+  "current_members": 20,
+  "details": {
+    "AutoApprovalStatus": "ON",
+    "AvatarName": "LION",
+    "CreationTime": "2026-11-05 15:20:09",
+    "CurrentMembers": 20,
+    "FrameName": "BEGINNER GUILD FRAME",
+    "GuildId": 3106755768,
+    "GuildLevel": 1,
+    "GuildName": "GOLRY",
+    "GuildRegion": "BD",
+    "GuildSlogan": "Welcome!",
+    "LastNoticeChangeTime": "Never",
+    "LastSloganChangeTime": "Never",
+    "MaxMembers": 20,
+    "MinBrRank": "Default",
+    "MinCsRank": "Default",
+    "MinLevelReq": 0,
+    "TotalActivityPoints": 829,
+    "WeeklyActivityPoints": 829,
+    "last_updated": "2026-11-11 14:18:31",
+    "status": "success"
+  },
+  "updated_at": 1794406711
+}
